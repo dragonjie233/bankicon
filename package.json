@@ -1,0 +1,15 @@
+{
+  "name": "bankicon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc build.ts && node build.js"
+  },
+  "author": "longjie",
+  "license": "MIT",
+  "dependencies": {
+    "@iconify/tools": "^4.0.4",
+    "typescript": "^5.5.4"
+  }
+}
